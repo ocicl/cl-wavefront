@@ -1,0 +1,9 @@
+* cl-wavefront
+
+A library for the Wavefront OBJ/MTL file format
+
+|---------+---------------------------------------------------|
+| source  | git:https://github.com/Shirakumo/cl-wavefront.git |
+| commit  | 2d55de6                                           |
+| systems | cl-wavefront                                      |
+|---------+---------------------------------------------------|
