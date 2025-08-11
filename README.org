@@ -4,6 +4,6 @@ A library for the Wavefront OBJ/MTL file format
 
 |---------+---------------------------------------------------|
 | source  | git:https://github.com/Shirakumo/cl-wavefront.git |
-| commit  | 2a3c356                                           |
+| commit  | 1085411                                           |
 | systems | cl-wavefront                                      |
 |---------+---------------------------------------------------|
